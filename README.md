@@ -51,8 +51,4 @@ Additionally, the app integrates with **Google Gemini API** to show Gemini’s p
    streamlit run app.py
    ```
 
-```
-
----
-
 
