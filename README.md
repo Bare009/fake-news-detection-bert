@@ -23,7 +23,6 @@ Additionally, the app integrates with **Google Gemini API** to show Gemini’s p
    ```bash
    git clone https://github.com/Bare009/fake-news-detection-bert.git
    cd fake-news-detection-bert
-````
 
 2. **Create a virtual environment (recommended)**
 
