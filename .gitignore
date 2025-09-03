@@ -1,0 +1,36 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Ignore environment variables file
+.env
+
+# Ignore model checkpoints or large artifacts
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.bin
+
+# Kaggle / Colab / Jupyter
+*.ipynb_checkpoints
+*.kaggle/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit logs
+.streamlit/
+
+# VS Code settings
+.vscode/
