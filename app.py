@@ -4,7 +4,7 @@ import google.generativeai as genai
 import os
 
 # Configure Gemini
-genai.configure(api_key="AIzaSyAKsRgklRO5fu0Fclbuzxr-ENUXvJwq3Pw")
+genai.configure(api_key="YOUR API KEY")
 
 st.set_page_config(page_title="Fake News Detector", layout="centered")
 st.title("📰 Fake News Detection App")
