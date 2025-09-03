@@ -18,6 +18,22 @@ Additionally, the app integrates with **Google Gemini API** to show Gemini’s p
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/Bare009/fake-news-detector.git
-cd fake-news-detector
+1.Clone the repo from GitHub (instead of manually downloading files):
+git clone https://github.com/Bare009/fake-news-detection-bert.git
+cd fake-news-detection-bert
+
+2.Create a virtual environment (recommended):
+python -m venv venv
+venv\Scripts\activate   # On Windows
+# OR
+source venv/bin/activate   # On Mac/Linux
+
+3.Install all dependencies directly from your requirements.txt:
 pip install -r requirements.txt
+
+4.Add your Gemini API key in a .env file (not included in GitHub, since it’s ignored by .gitignore):
+GEMINI_API_KEY=your_api_key_here
+
+5.Run the Streamlit app:
+streamlit run app.py
+
