@@ -16,15 +16,7 @@ Additionally, the app integrates with **Google Gemini API** to show Gemini’s p
 
 ---
 
-Ah, I see what happened 👀
 
-On GitHub, if you don’t format your **README.md** properly with **Markdown code blocks**, GitHub just treats everything as normal text, and the copy button appears for the whole section.
-
-To fix this, you should wrap each **command block** with triple backticks (\`\`\`) so GitHub shows them as separate code blocks.
-
-Here’s the corrected **Installation** section you can paste into your `README.md`:
-
-````markdown
 ## 🛠 Installation
 
 1. **Clone the repo from GitHub**  
