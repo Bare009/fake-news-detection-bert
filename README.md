@@ -39,7 +39,7 @@ Additionally, the app integrates with **Google Gemini API** to show Gemini’s p
    pip install -r requirements.txt
    ```
 
-4. **Add your Gemini API key** in a `.env` file (not included in GitHub, since it’s ignored by `.gitignore`):
+4. **Add your Gemini API key** in a `.env` file and in the app.py file:
 
    ```env
    GEMINI_API_KEY=your_api_key_here
