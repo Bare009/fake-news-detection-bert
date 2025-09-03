@@ -11,6 +11,6 @@ It also integrates **Google Gemini** for a second opinion, making predictions mo
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/YOUR-USERNAME/fake-news-detector.git
+git clone https://github.com/Bare009/fake-news-detector.git
 cd fake-news-detector
 pip install -r requirements.txt
