@@ -4,7 +4,7 @@ This project is an AI-powered fake news detection system that uses **DistilBERT 
 It also integrates **Google Gemini** for a second opinion, making predictions more transparent and reliable.
 
 ## 🚀 Features
-- Paste any news article or headline into the app
+- Paste any news headline along with the first paragraph of the news article
 - Get a prediction from your trained model
 - Compare results with **Gemini AI**
 - Simple and interactive **Streamlit UI**
