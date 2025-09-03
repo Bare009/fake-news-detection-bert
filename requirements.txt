@@ -1,5 +1,8 @@
 streamlit
-torch
 transformers
+torch
+pandas
+numpy
+python-dotenv
 xgboost
-google-generativeai
+scikit-learn
