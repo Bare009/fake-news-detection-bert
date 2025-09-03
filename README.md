@@ -41,7 +41,7 @@ Additionally, the app integrates with **Google Gemini API** to show Gemini’s p
 
 4. **Add your Gemini API key** in a `.env` file and in the app.py file:
 
-   ```env
+   ```bash
    GEMINI_API_KEY=your_api_key_here // in a new .env file
    genai.configure(api_key="api_key_here") // in app.py code
    ```
